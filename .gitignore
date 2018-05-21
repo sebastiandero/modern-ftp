@@ -177,6 +177,4 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/vim,node,linux,windows,webstorm+all
-
-package-lock.json
 out/
