@@ -4,6 +4,7 @@
   "description": "",
   "main": "src/main.ts",
   "dependencies": {
+    "ftp": "^0.3.10",
     "vue": "^2.4.4",
     "vueify": "^9.4.1"
   },
