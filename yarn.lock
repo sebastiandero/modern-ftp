@@ -47,6 +47,16 @@
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@types/electron-devtools-installer/-/electron-devtools-installer-2.0.3.tgz#905b9f7d9762fa9bfa5fc87ad6cb81945a0dfc79"
 
+"@types/ftp@^0.3.29":
+  version "0.3.29"
+  resolved "https://registry.yarnpkg.com/@types/ftp/-/ftp-0.3.29.tgz#661238587b9ec653c71256bd2138545be7ba7393"
+  dependencies:
+    "@types/node" "*"
+
+"@types/node@*":
+  version "10.1.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.1.2.tgz#1b928a0baa408fc8ae3ac012cc81375addc147c6"
+
 "@types/node@^7.0.12", "@types/node@^7.0.18":
   version "7.0.65"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-7.0.65.tgz#c160979ff66c4842adc76cc181a11b5e8722d13d"
