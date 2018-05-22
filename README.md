@@ -1,4 +1,5 @@
 # :nut_and_bolt: Electron-Vue-TypeScript Starter
+![build](https://travis-ci.org/sebastiandero/modern-ftp.svg?branch=develop)
 
 The Electron Shell starter that'll have you saying "kids these days" faster than you can type `npm start`.
 
