@@ -1,11 +1,14 @@
 import EventEmitter = Electron.EventEmitter
+import * as Client from 'ftp'
 
 class Session extends EventEmitter {
     options: SessionOptions
+    client: Client
 
     constructor(options: SessionOptions) {
         super()
         this.options = options
+        this.client = new Client()
     }
 
     public close() {
